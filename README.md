@@ -1,8 +1,12 @@
 # JavaScript-Study
 
-// document.getElementById("demo").innerHTML = "Hello JavaScript";
+### getElementById
 
 It takes an html element with ID "demo" and changes it to Hello JavaScript.
+
+```
+document.getElementById("demo").innerHTML = "Hello JavaScript";
+```
 
 * JavaScript accepts both double and single quotes
 
