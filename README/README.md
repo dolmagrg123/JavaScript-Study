@@ -1,4 +1,4 @@
-# JavaScript-Study
+# JavaScript-Study from w3schools.com
 
 ### getElementById
 
