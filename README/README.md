@@ -35,5 +35,6 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
 
 * Writing into an HTML element, using innerHTML.
 * Writing into the HTML output using document.write().
+  * Using document.write() after an HTML document is loaded, will delete all existing HTML
 * Writing into an alert box, using window.alert().
 * Writing into the browser console, using console.log().
