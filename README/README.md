@@ -1,5 +1,7 @@
 # JavaScript-Study from w3schools.com
 
+## Start from JS Statements
+
 JavaScript is one of the 3 languages all web developers must learn:
 
    1. HTML to define the content of web pages
@@ -38,3 +40,8 @@ document.getElementById("demo").innerHTML = "Hello JavaScript";
   * Using document.write() after an HTML document is loaded, will delete all existing HTML
 * Writing into an alert box, using window.alert().
 * Writing into the browser console, using console.log().
+
+
+#### JavaScript Print
+
+You can call the window.print() method in the browser to print the content of the current window.
